@@ -523,7 +523,7 @@ h6 {
 }
 
 .portfolio-item {
-  opacity: 0;
+  /* opacity: 0; */
   transform: translateY(2rem);
   transition: all 0.7s ease;
 }
